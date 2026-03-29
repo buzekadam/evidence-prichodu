@@ -1,0 +1,12 @@
+@echo off
+cd /d C:\Users\TVOJE_JMENO\CESTA_K_PROJEKTU (např. \Downloads\pss projekt)
+py main.py
+pause
+
+--
+výsledně to musí vypadat např. takhle:
+
+@echo off
+cd /d C:\Users\buzek\Downloads\pss projekt
+py main.py
+pause
